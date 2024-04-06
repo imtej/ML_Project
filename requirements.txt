@@ -1,4 +1,5 @@
 pandas
+pyarrow
 numpy
 seaborn
 matplotlib
@@ -7,4 +8,6 @@ catboost
 xgboost
 dill
 Flask
+
+
 # -e .
