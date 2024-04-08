@@ -6,7 +6,16 @@
 ### Introduction About the Data :
 
 
-**The dataset** The goal is to predict `Maths Score` of a given student provided various features (Regression Analysis).
+**The kaggle dataset** The goal is to predict `Maths Score` of a given student provided various features (Regression Analysis).
+
+`Context`
+Marks secured by the students
+
+`Content`
+This data set consists of the marks secured by the students in various subjects.
+
+`Inspiration`
+To understand the influence of the parents background, test preparation etc on students performance.
 
 There are 7 features:
 
