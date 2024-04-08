@@ -23,7 +23,7 @@ Target variable:
 
 Kaggle Dataset Source Link :
 [https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data]
-(https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data)
+
 
 
 # Approach for the project 
@@ -54,21 +54,24 @@ Kaggle Dataset Source Link :
 
 # Exploratory Data Analysis Notebook
 
-Link : [EDA Notebook](./notebook/1 . EDA STUDENT PERFORMANCE .ipynb)
+Link : [EDA Notebook](./notebook/1_EDA_STUDENT_PERFORMANCE.ipynb)
+
 
 # Model Training Approach Notebook
 
-Link : [Model Training Notebook](./notebook/2. MODEL TRAINING.ipynb)
+Link : [Model Training Notebook](./notebook/2_MODEL_TRAINING.ipynb)
 
 
 # Microsoft Azure Deployment using Github Actions:
 
-Microsoft Azure link : [https://stdntperformance.azurewebsites.net/predictdata](https://stdntperformance.azurewebsites.net/predictdata)
+Microsoft Azure link : [https://stdntperformance.azurewebsites.net/predictdata]
+
 
 # Screenshot of UI
 
-![HomepageUI](./Screenshots/student_performance filled data.png)
+![HomepageUI](./Screenshots/student_performance_filled_data.png)
 
 ### Predcted Maths Score :
 
-![Prediction](./Screenshots/student_performance predicted.png)
+![Prediction](./Screenshots/student_performance_predicted.png)
+
