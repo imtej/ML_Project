@@ -52,12 +52,12 @@ Kaggle Dataset Source Link :
 5. Flask App creation : 
     * Flask app is created with User Interface to predict the Student's Performance on Math Score inside a Web Application.
 
-# Exploratory Data Analysis Notebook
+## Exploratory Data Analysis Notebook
 
 Link : [EDA Notebook](./notebook/1_EDA_STUDENT_PERFORMANCE.ipynb)
 
 
-# Model Training Approach Notebook
+## Model Training Approach Notebook
 
 Link : [Model Training Notebook](./notebook/2_MODEL_TRAINING.ipynb)
 
@@ -68,7 +68,7 @@ Microsoft Azure link : [https://stdntperformance.azurewebsites.net/predictdata]
 
 
 # Screenshot of UI
-
+Filling features in the Homepage
 ![HomepageUI](./Screenshots/student_performance_filled_data.png)
 
 ### Predcted Maths Score :
