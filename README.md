@@ -1,7 +1,6 @@
 # End to End ML (Machine Learning) Project
 
 
-
 ## Prediction of Students Performance in Exams
 
 ### Introduction About the Data :
